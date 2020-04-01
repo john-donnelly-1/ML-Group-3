@@ -1,3 +1,0 @@
-import pandas as pd
-data  = pd.read_csv(r"C:\Users\johnd\OneDrive\School\Intro to ML\SP500_ratios1.csv")
-data.head()
